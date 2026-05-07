@@ -9,5 +9,5 @@ To change decay type, adjust the word after "decayMode". The options are "fixed"
 To change alpha for linear, interference, and log decay modes, adjust the number after "alpha". For example, "alpha", "0.5" will test alpha of 0.5. 
 
 Creating the graphs:
-We used "Neuro 120 Final Project Graphs.ipynb" to create the graphs in our writeup. We recorded data (overall recall accuracy and serial position recall accuracy) from each simulation we ran and made graphs based on this data. 
+We used "Neuro 120 Final Project Graphs.ipynb" to create the graphs in our writeup. We recorded output metrics (overall recall accuracy and serial position recall accuracy) from each simulation we ran and made graphs based on this data. 
 
