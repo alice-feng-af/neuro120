@@ -61,8 +61,8 @@ param_itemItemOverlap = 0.4
 param_sameDist = 0
 
 # ADAPTIVE DECAY PARAMETERS
-adaptive_mode = "fixed"          # options: fixed, linear, threshold, interference
-adaptive_alpha = 0.25            # strength for linear/interference modes
+adaptive_mode = "fixed"          # options: fixed, linear, threshold, interference, log
+adaptive_alpha = 0.25            # strength for linear/interference/log modes
 adaptive_threshold = 0.35        # threshold for threshold mode
 adaptive_high_decay = 0.7        # decay above threshold
 adaptive_low_decay = 0.4         # decay below threshold
